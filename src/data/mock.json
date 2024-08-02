@@ -1,0 +1,92 @@
+[
+  {
+    "title": "Remera oversize negra",
+    "id": 1,
+    "image": "https://http2.mlstatic.com/D_814317-MLA69684111711_052023-O.jpg",
+    "category": "hombres",
+    "price": 15.99,
+    "stock": 10,
+    "detalle": "Remera oversize negra de algodón, perfecta para un look casual y relajado. Ideal para combinar con jeans o shorts."
+  },
+  {
+    "title": "Pantalón jean",
+    "id": 2,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHKU8My-fp2YkQGDzNFlKh0oteU5TnzKdf-A&s",
+    "category": "hombres",
+    "price": 29.99,
+    "stock": 5,
+    "detalle": "Pantalón de jean clásico, resistente y versátil. Adecuado para el uso diario y fácil de combinar con cualquier prenda."
+  },
+  {
+    "title": "Vestido negro",
+    "id": 3,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4GBsAj41yx38nLzukzVyo3uADozyxPUGUQ&s",
+    "category": "mujeres",
+    "price": 49.99,
+    "stock": 3,
+    "detalle": "Vestido negro elegante, ideal para eventos formales o cenas especiales. Su diseño ajustado resalta la figura."
+  },
+  {
+    "title": "Top mujer",
+    "id": 4,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRVTqTt3bpGMXo81uUPrV4MjQnUBLdk6h8xtA&s",
+    "category": "mujeres",
+    "price": 24.99,
+    "stock": 8,
+    "detalle": "Top para mujer ligero y cómodo, perfecto para días calurosos. Combina bien con jeans o faldas para un look fresco."
+  },
+  {
+    "title": "Medias pack 3",
+    "id": 5,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRgMhmjWirqzsqM5GsZVVOoLO5xts6TBwXxKA&s",
+    "category": "hombres",
+    "price": 5.99,
+    "stock": 12,
+    "detalle": "Pack de 3 medias suaves y cómodas, ideales para el uso diario. Mantienen tus pies abrigados durante todo el día."
+  },
+  {
+    "title": "Hoddie Vintage",
+    "id": 6,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3p6HwAfMH_D7cOoKJNX52VigYjpK5M91SMQ&s",
+    "category": "hombres",
+    "price": 59.99,
+    "stock": 2,
+    "detalle": "Hoddie vintage cálido y estiloso, perfecto para días frescos. Su diseño retro añade un toque único a tu atuendo."
+  },
+  {
+    "title": "Falda",
+    "id": 7,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRsEXe5eUOetgnYgNKclrYH7wR3GB-Z7Nf-bg&s",
+    "category": "mujeres",
+    "price": 34.99,
+    "stock": 6,
+    "detalle": "Falda femenina versátil, adecuada para ocasiones casuales o semi-formales. Fácil de combinar con diferentes tops."
+  },
+  {
+    "title": "Gorra LA",
+    "id": 8,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0MZRpI7fHa_eUPeYWGBunY6IP0k73r8Fg7Q&s",
+    "category": "hombres",
+    "price": 14.99,
+    "stock": 15,
+    "detalle": "Gorra estilo LA, ideal para protegerse del sol con estilo. Añade un toque urbano y moderno a cualquier conjunto."
+  },
+  {
+    "title": "Bufanda",
+    "id": 9,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQVmv21y35MFP-mty7mc6N7lY1UPBio-P2NXw&s",
+    "category": "mujeres",
+    "price": 19.99,
+    "stock": 9,
+    "detalle": "Bufanda cálida y suave, esencial para los días fríos. Un accesorio indispensable para mantener el calor en invierno."
+  },
+  {
+    "title": "Jacket Casual",
+    "id": 10,
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQC5PakdM6EMqrfzDvBAc3txJNbfV2llvPmug&s",
+    "category": "hombres",
+    "price": 79.99,
+    "stock": 4,
+    "detalle": "Chaqueta casual para hombre, moderna y cómoda. Perfecta para cualquier ocasión, ya sea casual o semi-formal."
+  }
+]
