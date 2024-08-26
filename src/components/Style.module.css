@@ -13,7 +13,7 @@
 .navBar{
 font-family: var(--font-family);
 color: var(--color-font);
-    background-color: #222;
+    background-color: rgb(34, 40, 49);
     height: 80px;
     padding-top:20px; 
     padding-left: 10px;
@@ -51,3 +51,33 @@ color: var(--color-font);
     padding-left: 5px
 
 }
+.container{display: grid;
+grid-template-columns: 25% 25% 25% 25%;
+margin-top: 3rem;
+padding: 0%;
+row-gap: 50px;    /* Espacio entre filas */
+column-gap: 60px;}
+
+.loader {
+   
+    width: 50px;
+    aspect-ratio: 1;
+    --_c:no-repeat radial-gradient(farthest-side,#25b09b 92%,#0000);
+    background: 
+      var(--_c) top,
+      var(--_c) left,
+      var(--_c) right,
+      var(--_c) bottom;
+    background-size: 12px 12px;
+    animation: l7 1s infinite;
+  }
+  @keyframes l7 {to{transform: rotate(.5turn)}}
+  .center{ display: flex;
+    justify-content: center; /* Centra horizontalmente */
+    align-items: center; 
+margin-top: 15%;}
+
+.cardBody{
+    height: 30rem; ;
+}
+

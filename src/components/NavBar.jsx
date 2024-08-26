@@ -14,7 +14,7 @@ export const NavBar = ()=><>
         </Nav>
 </ul>
 <CardWidget/>
-<span className={moduleStyle.contador}>4</span>
+
 </div> 
 </>
   

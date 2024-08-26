@@ -4,6 +4,7 @@ import { Link, useParams } from "react-router-dom";
 import { Container } from "react-bootstrap";
 import Button from 'react-bootstrap/Button';
 import Card from 'react-bootstrap/Card';
+import moduleStyle from "./Style.module.css"
 
 import data from "../data/mock.json"
 
@@ -22,26 +23,27 @@ const { id } = useParams();
         }else{
             const filters = response.filter((i)=> i.category === id);
             setItem(filters)
-        }
+        } 
         
         
       })
     .finally(()=>setLoading(false))
 },[id])
-if (loading) return "wait..."
+if (loading) return <div className={moduleStyle.center}> <div className={moduleStyle.loader}></div> </div>
    
 
 
 
-
+ 
     return<>
 
-<Container>
+<Container style={{ margin:'0%' }}>
+    <div className={moduleStyle.container} >
 {items.map((i)=>(
     
- <Card key={i.id} style={{ width: '15rem' }}>
- <Card.Img variant="top" src={i.image} />
- <Card.Body>
+ <Card key={i.id} style={{ width: '20rem',height:'33rem' }}>
+ <Card.Img variant="top" src={i.image} style={{height:'270px'}} />
+ <Card.Body style={{ height:'5rem' }}>
    <Card.Title>{i.title}</Card.Title>
    <Card.Text>
     {i.detalle}
@@ -55,8 +57,8 @@ if (loading) return "wait..."
  </Card.Body>
 </Card>
 
-))};
-
+))}
+</div>
 </Container>
 </>
 }
