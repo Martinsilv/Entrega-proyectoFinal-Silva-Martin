@@ -61,7 +61,7 @@ Este proyecto es una aplicación de comercio electrónico donde los usuarios pue
 ---
 
 #### Ejecutar la Aplicación
-Después de instalar las dependencias e iniciar el servidor, abre tu navegador y ve a `http://localhost:5173/`.
+Después de instalar las dependencias e iniciar el servidor, abre tu navegador y ve a ` http://localhost:5174/`.
 
 ---
 
