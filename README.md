@@ -8,10 +8,13 @@
 ---
 ### Descripción General y decisiones del proyecto
 
--Este proyecto es una aplicación de comercio electrónico donde los usuarios pueden navegar por productos, agregarlos al carrito y realizar compras en línea.
--Desarrollado con React, Firebase y Bootstrap, tiene como objetivo ofrecer una experiencia de compra fluida.
--Las decisiones tomadas durante este proyecto se fueron definiendo a medida que avanzaba en el desarrollo e investigación de las mejores prácticas.
--Me enfoqué en crear una interfaz que ofrezca una experiencia de usuario fluida y eficiente, facilitando la navegación y la compra de productos.
+- Este proyecto es una aplicación de comercio electrónico donde los usuarios pueden navegar por productos, agregarlos al carrito y realizar compras en línea.
+
+- Desarrollado con React, Firebase y Bootstrap, tiene como objetivo ofrecer una experiencia de compra fluida.
+
+- Las decisiones tomadas durante este proyecto se fueron definiendo a medida que avanzaba en el desarrollo e investigación de las mejores prácticas.
+
+- Me enfoqué en crear una interfaz que ofrezca una experiencia de usuario fluida y eficiente, facilitando la navegación y la compra de productos.
 ---
 ### Características
 - Listado de productos por categorías
