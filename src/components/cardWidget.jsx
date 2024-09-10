@@ -10,7 +10,7 @@ const{contadorCarrito} = useContext(CardContext)
     return(
 <div>
     <Link to="/carrito"><img style={{width:"50px",height:"50px"}} src={carrito} alt="carritoDeCompras" />
-    <span className={moduleStyle.contador}>{contadorCarrito()}</span>
+    <span className={moduleStyle.contador}>{contadorCarrito()|| 0}</span>
     </Link>
 
 </div>
