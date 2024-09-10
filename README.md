@@ -6,53 +6,18 @@
 4. Flujo de Usuario
 5. Tecnologías
 ---
-### Descripción General
-Este proyecto es una aplicación de comercio electrónico donde los usuarios pueden navegar por productos, agregarlos al carrito y realizar compras en línea. Desarrollado con React, Firebase y Bootstrap, tiene como objetivo ofrecer una experiencia de compra fluida.
+### Descripción General y decisiones del proyecto
+Este proyecto es una aplicación de comercio electrónico donde los usuarios pueden navegar por productos, agregarlos al carrito y realizar compras en línea.
+Desarrollado con React, Firebase y Bootstrap, tiene como objetivo ofrecer una experiencia de compra fluida.
+Las decisiones tomadas durante este proyecto se fueron definiendo a medida que avanzaba en el desarrollo e investigación de las mejores prácticas. Me enfoqué en crear una interfaz que ofrezca una experiencia de usuario fluida y eficiente, facilitando la navegación y la compra de productos.
 ---
 ### Características
 - Listado de productos por categorías
 - Funcionalidad de carrito de compras
 - Registro de usuarios para las compras
 - Sistema de pago integrado con Firebase
----
-### Instalación
-#### Requisitos previos:
-- Tener Node.js y npm instalados
-#### Pasos:
-1. Clona el repositorio:
-    ```bash
-    git clone https://github.com/Martinsilv/Entrega-proyectoFinal-Silva-Martin
-    ```
-2. Navega al directorio del proyecto:
-    ```bash
-    cd Ecommerce-React
-    ```
-3. Instala las dependencias:
-    ```bash
-    npm install
-    ```
-4. Configura tu proyecto de Firebase y añade la configuración en el archivo `.env`.
-5. Inicia el servidor de desarrollo:
-    ```bash
-    npm start
-    ```
----
 
-#### Ejecutar la Aplicación
-Después de instalar las dependencias e iniciar el servidor, abre tu navegador y ve a ` http://localhost:5174/`.
-
----
-
-
-    
-          
-            
-    
-
-          
-          Expand Down
-    
-    
+  ----
   
 ### Flujo de Usuario
 - Navegar por los productos por categoría
